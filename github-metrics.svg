@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="180" role="img" aria-label="GitHub Metrics pending first workflow run">
+  <rect width="900" height="180" rx="12" fill="#f6f8fa"/>
+  <text x="450" y="82" fill="#24292f" font-family="Arial, sans-serif" font-size="22" text-anchor="middle">GitHub Metrics</text>
+  <text x="450" y="116" fill="#57606a" font-family="Arial, sans-serif" font-size="15" text-anchor="middle">Generated automatically after the first workflow run.</text>
+</svg>
