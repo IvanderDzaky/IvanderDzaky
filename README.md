@@ -21,8 +21,8 @@ Interested in building useful web products and capturing meaningful moments thro
 | Project | Description | Link |
 | --- | --- | --- |
 | [LiveWarden](https://github.com/IvanderDzaky/LiveWarden) | TikTok LIVE monitoring and audience intelligence platform. | Repository link verified from local project remote. |
-| [Harmoni Play](https://github.com/IvanderDzaky/harmoni_play) | Music application project. | Repository link verified. |
-| [VannShoot Portfolio](https://github.com/IvanderDzaky/vannshoot) | Full-stack application for selling digital photos. | Repository link verified. |
+| [Harmoni Play](https://github.com/IvanderDzaky/HarmoniPlay) | Music application project. | Repository link verified. |
+| [Portfolio](https://github.com/IvanderDzaky/Portfolio) | Full-stack photography portfolio and digital photo platform. | Repository link verified. |
 
 ## Languages & Tools
 
