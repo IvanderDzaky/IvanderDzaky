@@ -13,16 +13,16 @@ Interested in building useful web products and capturing meaningful moments thro
 ## Social Links
 
 - GitHub: [github.com/IvanderDzaky](https://github.com/IvanderDzaky)
-- LinkedIn: `[Add LinkedIn URL]`
-- Instagram: `[Add Instagram URL]`
+- LinkedIn: https://www.linkedin.com/in/ivanderdzaky
+- Instagram: https://www.instagram.com/ivander_dzaky
 
 ## Featured Projects
 
 | Project | Description | Link |
 | --- | --- | --- |
-| [LiveWarden](https://github.com/IvanderDzaky/LiveWarden) | TikTok LIVE monitoring and audience intelligence platform. | Repository link verified from local project remote. |
-| [Harmoni Play](https://github.com/IvanderDzaky/HarmoniPlay) | Music application project. | Repository link verified. |
-| [Portfolio](https://github.com/IvanderDzaky/Portfolio) | Full-stack photography portfolio and digital photo platform. | Repository link verified. |
+| LiveWarden | TikTok LIVE monitoring and audience intelligence platform. | https://github.com/IvanderDzaky/LiveWarden |
+| Harmoni Play | Music application project. | https://github.com/IvanderDzaky/HarmoniPlay |
+| Portfolio | Full-stack photography portfolio and digital photo platform. | https://github.com/IvanderDzaky/Portfolio |
 
 ## Languages & Tools
 
@@ -48,5 +48,4 @@ Interested in building useful web products and capturing meaningful moments thro
 ## Contact
 
 - GitHub: [@IvanderDzaky](https://github.com/IvanderDzaky)
-- Email: `[Add public contact email]`
-- Other contact: `[Add preferred contact link]`
+- Email: ivanderdzaky@gmail.com
